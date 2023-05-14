@@ -2,7 +2,7 @@
 
 #1- Torrent to Gdrive
 
-#2- M3U8 to Gdrive
+#2- M3U8 to Mp4 Downlaoder
 
 #3- Link to Gdrive
 
