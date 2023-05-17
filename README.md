@@ -11,3 +11,7 @@
 #5- Zip/Unzip
 
 #6- Youtube Video Downloader
+
+#7- New m3u8 Downloader with HLS support
+
+#8 Copy Shared Gdrive Folder to My Drive
